@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently doing Freelancing<br>🌱 16 years old Full Stack Developer<br>⚡ Learning Rust
+🔭 Currently doing Freelancing<br>🌱 15 years old Full Stack Developer<br>⚡ Learning Rust
 
 
 ## 🌐 Socials:
