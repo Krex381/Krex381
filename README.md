@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krex_38) 
 
-## <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="40">   Discord
+## <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="33">   Discord
 
 <p align="center">
   <img width="400" src="https://dsc-readme.tsuni.dev/api/user/1012249571436548136?aboutMe=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E++%E2%80%8E+%E2%80%8E++%E2%80%8E++%E2%80%8E+%E2%80%8E%F0%9D%92%AA%F0%9D%93%83%F0%9D%93%81%F0%9D%93%8E+%F0%9F%A4%8D+%F0%9D%92%9F+%7C+%F0%9D%93%BC%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AC%F0%9D%93%AE++%F0%9D%9F%91%F0%9D%9F%8E.%F0%9D%9F%8E%F0%9D%9F%95.%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%91%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E%E2%80%8E+%E2%80%8E&theme=dark"></img>  
