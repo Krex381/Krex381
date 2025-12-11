@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 Currently doing Freelancing<br>🌱 Full Stack Developer<br>⚡ Learning Rust
+Junior Full Stack Developer
 
 
 ## 🌐 Socials:
