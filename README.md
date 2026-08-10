@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **Assembly**
 
-- 💬 Ask me about **Everything about what I know**
+- 💬 Ask me about **Software engineer focused on backend infrastructure, developer tooling, AI systems and security.**
 
 - 📫 How to reach me **krex@krexizm.cc**
 
